@@ -2,25 +2,5 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-about me:
-
-## Currently Learning :beginner:
-
-- **Data Science**
-
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
-</td>
-
-
-</tbody>
-</table>
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
