@@ -16,7 +16,7 @@
 /> 
 
 
-<h3> 👨‍💻 Languages I use</h3>
+<h3> 👨‍💻 Languages languages ​I use and am constantly learning</h3>
 
 <!--START_SECTION:colourise-->
 <p align=center>
