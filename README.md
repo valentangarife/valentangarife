@@ -26,4 +26,3 @@ Este lado queda completamente libre, igual que en el ejemplo.
 </table>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
