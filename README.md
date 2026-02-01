@@ -7,6 +7,8 @@
   <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
 </h2>
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <img 
   src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true"
   alt="GIF"
@@ -14,7 +16,6 @@
 /> 
 
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p>
 Aquí va tu texto, descripción, skills, lo que quieras escribir.
