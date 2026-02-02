@@ -54,7 +54,7 @@ La tecnología no solo se trata de crear sistemas, sino de crear impacto, ayudar
 
 ---
 
-<h3> 👨‍💻 Languages ​i use and i am constantly learning</h3>
+***👨‍💻 Languages ​i use and i am constantly learning***
 
 <!--START_SECTION:colourise-->
 <img src="https://img.shields.io/badge/-C++-00FF80?style=for-the-badge&logo=c%2b%2b"/>
@@ -67,7 +67,7 @@ La tecnología no solo se trata de crear sistemas, sino de crear impacto, ayudar
 <!--END_SECTION:colourise-->
 
 
-## Check out my Social Media
+***Check out my Social Media***
 
 <a href= "https://www.instagram.com/valenwerle/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -81,5 +81,11 @@ La tecnología no solo se trata de crear sistemas, sino de crear impacto, ayudar
 <a href="https://www.youtube.com/@ValenWerle">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
+
+---
+
+***Github Contribution Streak 🥵🔥***
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
 </table>
 
