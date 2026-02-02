@@ -16,17 +16,34 @@
 /> 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+👩‍💻✨ About Me | Sobre mí
+Soy estudiante de Ingeniería en Sistemas, apasionada por el mundo de la tecnología y por todo lo que podemos crear para ayudar a las personas 🌍💡.
+Me encanta aprender cosas nuevas, compartir lo que sé y, sobre todo, aprender de mis colegas, porque creo firmemente en el crecimiento en comunidad 🤝.
+Soy una persona creativa, con gusto por la innovación, y me considero una buena líder: sé escuchar, trabajar en equipo y aportar desde la empatía y el compromiso 🚀.
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+🧠💡 Habilidades & Fortalezas
+🌱 Aprendizaje continuo y curiosidad constante
+🎨 Creatividad e innovación
+🧭 Liderazgo y toma de iniciativa
+🤝 Trabajo en equipo y comunicación efectiva
+👂 Escucha activa y colaboración
+🛠️ Capacidad para aplicar la tecnología a problemas reales
 
+🏢💻 Experiencia Destacada
+🔐 Participación en procesos de configuración de sistemas biométricos
+para control de acceso y asistencia en una empresa
+⚙️ Integración de tecnología orientada a mejorar procesos organizacionales
+
+📚🧘‍♀️ Intereses fuera de la tecnología
+Cuando no estoy programando, disfruto mucho de:
+📖 Leer sobre filosofía, crecimiento personal y finanzas
+🎶 Escuchar música: salsa, bachata y rock
+🌱 Reflexionar, aprender y seguir creciendo como persona
+
+---
+🌟 Mi filosofía
+La tecnología no solo se trata de crear sistemas, sino de crear impacto, ayudar a otros y crecer juntos. 💫
+---
 <h3> 👨‍💻 Languages ​i use and i am constantly learning</h3>
 
 <!--START_SECTION:colourise-->
