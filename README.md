@@ -3,7 +3,7 @@
     <td width="65%" valign="top">
 
 <h2>
-  Hi There, Welcome to my Github profile!
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Hi There, Welcome to my Github profile!
   <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
 </h2>
 
@@ -15,35 +15,45 @@
   height="260"
 /> 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-👩‍💻✨ About Me | Sobre mí
+***👩‍💻✨ About Me | Sobre mí***
+
 Soy estudiante de Ingeniería en Sistemas, apasionada por el mundo de la tecnología y por todo lo que podemos crear para ayudar a las personas 🌍💡.
 Me encanta aprender cosas nuevas, compartir lo que sé y, sobre todo, aprender de mis colegas, porque creo firmemente en el crecimiento en comunidad 🤝.
 Soy una persona creativa, con gusto por la innovación, y me considero una buena líder: sé escuchar, trabajar en equipo y aportar desde la empatía y el compromiso 🚀.
 
-🧠💡 Habilidades & Fortalezas
-🌱 Aprendizaje continuo y curiosidad constante
-🎨 Creatividad e innovación
-🧭 Liderazgo y toma de iniciativa
-🤝 Trabajo en equipo y comunicación efectiva
-👂 Escucha activa y colaboración
-🛠️ Capacidad para aplicar la tecnología a problemas reales
+--- 
+***🧠💡 Habilidades & Fortalezas***
 
-🏢💻 Experiencia Destacada
-🔐 Participación en procesos de configuración de sistemas biométricos
+- 🌱 Aprendizaje continuo y curiosidad constante
+- 🎨 Creatividad e innovación
+- 🧭 Liderazgo y toma de iniciativa
+- 🤝 Trabajo en equipo y comunicación efectiva
+- 👂 Escucha activa y colaboración
+- 🛠️ Capacidad para aplicar la tecnología a problemas reales
+
+---
+***🏢💻 Experiencia Destacada***
+
+- 🔐 Participación en procesos de configuración de sistemas biométricos
 para control de acceso y asistencia en una empresa
-⚙️ Integración de tecnología orientada a mejorar procesos organizacionales
+- ⚙️ Integración de tecnología orientada a mejorar procesos organizacionales
 
-📚🧘‍♀️ Intereses fuera de la tecnología
+---
+***📚🧘‍♀️ Intereses fuera de la tecnología***
+
 Cuando no estoy programando, disfruto mucho de:
-📖 Leer sobre filosofía, crecimiento personal y finanzas
-🎶 Escuchar música: salsa, bachata y rock
-🌱 Reflexionar, aprender y seguir creciendo como persona
+
+- 📖Leer sobre filosofía, crecimiento personal y finanzas
+- 🎶 Escuchar música: salsa, bachata y rock
+- 🌱 Reflexionar, aprender y seguir creciendo como persona
 
 ---
-🌟 Mi filosofía
+***🌟 Mi filosofía:***
+
 La tecnología no solo se trata de crear sistemas, sino de crear impacto, ayudar a otros y crecer juntos. 💫
+
 ---
+
 <h3> 👨‍💻 Languages ​i use and i am constantly learning</h3>
 
 <!--START_SECTION:colourise-->
