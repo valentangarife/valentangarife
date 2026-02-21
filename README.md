@@ -35,7 +35,7 @@ Soy una persona creativa, con gusto por la innovación, y me considero una buena
 ***🏢💻 Experiencia Destacada***
 
 - 🔐 Participación en procesos de configuración de sistemas biométricos
-para control de acceso y asistencia en una empresa
+para control de acceso y asistencia en la empresa Distribucciones Hoyostools
 - ⚙️ Integración de tecnología orientada a mejorar procesos organizacionales
 
 ---
